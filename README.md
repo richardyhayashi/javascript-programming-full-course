@@ -12,5 +12,5 @@ by `freeCodeCamp.org`, `Per Harald Borgen`
 6. Reassigning & incrementing
 7. Adding button
 8. onclick event listener
-9.
-10.
+9. Using functions to write less code
+10. 
