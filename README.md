@@ -15,7 +15,7 @@ by `freeCodeCamp.org`, `Per Harald Borgen`
 9. Using functions to write less code
 10. First function
 11. Function that logs sum
-12.
+12. Function that increments
 13.
 14.
 15.
