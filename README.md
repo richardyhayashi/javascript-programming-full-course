@@ -11,6 +11,6 @@ by `freeCodeCamp.org`, `Per Harald Borgen`
 5. Mathematical operations
 6. Reassigning & incrementing
 7. Adding button
-8.
+8. onclick event listener
 9.
 10.
