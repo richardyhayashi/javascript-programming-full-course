@@ -10,7 +10,7 @@ by `freeCodeCamp.org`, `Per Harald Borgen`
 4. Create variable
 5. Mathematical operations
 6. Reassigning & incrementing
-7.
+7. Adding button
 8.
 9.
 10.
