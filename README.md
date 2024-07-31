@@ -9,7 +9,7 @@ by `freeCodeCamp.org`, `Per Harald Borgen`
 3. Setting up file
 4. Create variable
 5. Mathematical operations
-6.
+6. Reassigning & incrementing
 7.
 8.
 9.
