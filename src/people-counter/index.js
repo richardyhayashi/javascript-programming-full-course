@@ -1,8 +1,10 @@
-// Create a function (you decide the name) that logs out the number 42 to the console
-// Call/invoke the function
+let countEl = document.getElementById("count-el");
 
-function myLogger() {
-    console.log(42);
+console.log(countEl);
+
+let count =0;
+
+function increment() {
+    count += 1;
+    countEl.innerHTML = count;
 }
-
-myLogger();

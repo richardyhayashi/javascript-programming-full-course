@@ -16,6 +16,6 @@ by `freeCodeCamp.org`, `Per Harald Borgen`
 10. First function
 11. Function that logs sum
 12. Function that increments
-13.
-14.
+13. Increment on clicks
+14. Display count
 15.
