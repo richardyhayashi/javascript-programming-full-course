@@ -20,7 +20,7 @@ by `freeCodeCamp.org`, `Per Harald Borgen`
 14. Display count
 15. Document Object Model
 16. Display count w/ innerText
-17.
+17. Create save button
 18.
 19.
 20.
