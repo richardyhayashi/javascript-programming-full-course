@@ -8,7 +8,7 @@ by `freeCodeCamp.org`, `Per Harald Borgen`
 2. Passenger counter app
 3. Setting up file
 4. Create variable
-5.
+5. Mathematical operations
 6.
 7.
 8.
