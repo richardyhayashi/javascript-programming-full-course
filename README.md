@@ -14,3 +14,8 @@ by `freeCodeCamp.org`, `Per Harald Borgen`
 8. onclick event listener
 9. Using functions to write less code
 10. First function
+11. Function that logs sum
+12.
+13.
+14.
+15.
