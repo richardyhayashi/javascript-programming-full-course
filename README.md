@@ -13,4 +13,4 @@ by `freeCodeCamp.org`, `Per Harald Borgen`
 7. Adding button
 8. onclick event listener
 9. Using functions to write less code
-10. 
+10. First function

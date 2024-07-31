@@ -1,14 +1,8 @@
-//document.getElementById("count-el").innerText = 5;
+// Create a function (you decide the name) that logs out the number 42 to the console
+// Call/invoke the function
 
-// let count = 5;
-// count = count + 1;
-// console.log(count);
-
-// Intialize the count as 0.
-// Listen for clicks on the increment button.
-// Increment the count variable when the button is clicked.
-// Change the count-el in the HTML to reflect the new count.
-
-function increment() {
-    console.log("The button was clicked.");
+function myLogger() {
+    console.log(42);
 }
+
+myLogger();
