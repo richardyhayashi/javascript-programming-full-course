@@ -18,4 +18,9 @@ by `freeCodeCamp.org`, `Per Harald Borgen`
 12. Function that increments
 13. Increment on clicks
 14. Display count
-15.
+15. Document Object Model
+16. Display count w/ innerText
+17.
+18.
+19.
+20.
